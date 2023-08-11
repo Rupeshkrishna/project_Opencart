@@ -1,0 +1,145 @@
+17:32:50.777 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+17:40:30.452 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+17:43:28.728 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+17:47:45.652 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+17:57:54.456 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+18:06:18.363 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+18:14:16.753 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+18:15:31.328 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+18:23:41.344 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+18:27:25.047 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+18:29:45.688 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+19:01:51.049 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+19:05:50.061 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+19:13:18.645 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+19:17:41.131 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+19:20:05.543 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+19:25:46.062 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+21:35:57.319 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+21:39:12.189 [main] DEBUG io.netty.util.internal.logging.InternalLoggerFactory - Using Log4J2 as the default logging framework
+21:39:12.244 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+21:39:12.244 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+21:39:12.247 [main] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@38018b62
+21:39:12.266 [main] DEBUG io.netty.util.internal.PlatformDependent0 - -Dio.netty.noUnsafe: false
+21:39:12.266 [main] DEBUG io.netty.util.internal.PlatformDependent0 - Java version: 15
+21:39:12.267 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+21:39:12.268 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+21:39:12.269 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.storeFence: available
+21:39:12.269 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+21:39:12.269 [main] DEBUG io.netty.util.internal.PlatformDependent0 - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+21:39:12.269 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+21:39:12.270 [main] DEBUG io.netty.util.internal.PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @3b764bce
+21:39:12.271 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): unavailable
+21:39:12.272 [main] DEBUG io.netty.util.internal.PlatformDependent - sun.misc.Unsafe: available
+21:39:12.272 [main] DEBUG io.netty.util.internal.PlatformDependent - maxDirectMemory: 4229955584 bytes (maybe)
+21:39:12.272 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\vrupesh\AppData\Local\Temp (java.io.tmpdir)
+21:39:12.273 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+21:39:12.273 [main] DEBUG io.netty.util.internal.PlatformDependent - Platform: Windows
+21:39:12.274 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.maxDirectMemory: -1 bytes
+21:39:12.274 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+21:39:12.275 [main] DEBUG io.netty.util.internal.CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+21:39:12.275 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+21:39:12.281 [main] DEBUG io.netty.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+21:39:12.297 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+21:39:12.297 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+21:39:12.333 [main] DEBUG io.netty.handler.ssl.JdkSslContext - Default protocols (JDK): [TLSv1.3, TLSv1.2, TLSv1.1, TLSv1] 
+21:39:12.334 [main] DEBUG io.netty.handler.ssl.JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+21:39:12.346 [main] DEBUG io.netty.util.concurrent.GlobalEventExecutor - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+21:39:12.360 [main] DEBUG io.netty.channel.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 16
+21:39:12.369 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+21:39:12.370 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+21:39:12.419 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 16
+21:39:12.420 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 16
+21:39:12.420 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+21:39:12.420 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+21:39:12.420 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+21:39:12.420 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+21:39:12.420 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+21:39:12.420 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+21:39:12.421 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+21:39:12.421 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+21:39:12.421 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+21:39:12.421 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+21:39:12.430 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+21:39:12.430 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+21:39:12.430 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+21:39:13.296 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 12540 (auto-detected)
+21:39:13.298 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+21:39:13.298 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+21:39:13.312 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtilInitializations - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+21:39:13.313 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+21:39:13.350 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: 84:1b:77:ff:fe:b6:a4:18 (auto-detected)
+21:39:13.382 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+21:39:13.382 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+21:39:13.382 [AsyncHttpClient-1-2] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@5e6aa335
+21:39:13.400 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+21:39:13.400 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+21:39:13.400 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.chunkSize: 32
+21:39:13.400 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.blocking: false
+21:39:13.400 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+21:39:16.575 [AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+21:39:16.752 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xeebcbf3828797579
+21:39:17.960 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+21:39:17.961 [main] DEBUG testCases.TC_001_AccountRegistrationTest - null
+21:43:31.225 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+21:54:58.723 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+21:59:13.067 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+23:09:37.894 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+11:50:09.999 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+11:50:10.003 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test Failed
+12:18:12.825 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+12:22:46.907 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+12:25:35.590 [main] INFO  testCases.TC_001_AccountRegistrationTest -  ******* Starting the log file ********
+13:15:12.748 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Starting the Registration process ***************
+13:15:13.420 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree check box
+13:15:13.462 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree continue box
+13:18:46.037 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Starting the Registration process ***************
+13:18:46.676 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree check box
+13:18:46.725 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree continue box
+13:38:38.144 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Starting the Registration process ***************
+13:38:38.783 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree check box
+13:38:38.828 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree continue box
+13:39:10.372 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Starting the Registration process ***************
+13:39:11.040 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree check box
+13:39:11.093 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree continue box
+13:39:52.568 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Starting the Registration process ***************
+13:39:53.432 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree check box
+13:39:53.486 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree continue box
+13:48:23.466 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ******** Starting the Registration process ***************
+13:48:24.198 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree check box
+13:48:24.254 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree continue box
+15:11:46.260 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ******** Starting the Registration process ***************
+15:11:46.981 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree check box
+15:11:47.031 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree continue box
+15:15:48.674 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Starting the Registration process ***************
+15:15:49.562 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree check box
+15:15:49.629 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree continue box
+15:35:28.526 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Starting the Registration process ***************
+15:39:01.799 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Starting the Registration process ***************
+15:43:24.975 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Starting the Registration process ***************
+15:43:29.396 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree check box
+15:44:21.786 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Starting the Registration process ***************
+15:44:22.451 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree check box
+15:44:22.501 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree continue box
+15:46:03.670 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Starting the Registration process ***************
+15:46:04.349 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree check box
+15:46:04.394 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree continue box
+15:53:49.636 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Starting the Registration process ***************
+15:53:50.579 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree check box
+15:53:50.627 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree continue box
+15:53:53.938 [main] INFO  testCases.TC_001_AccountRegistrationTest - This step is for navigating to back page
+19:29:04.492 [main] INFO  testCases.TC_003_LoginDDT -  *****  Starting TC_003_LoginDDT *****
+19:31:34.187 [main] INFO  testCases.TC_003_LoginDDT -  *****  Starting TC_003_LoginDDT *****
+12:39:12.774 [main] INFO  testCases.TC_003_LoginDDT -  *****  Starting TC_003_LoginDDT *****
+13:35:34.463 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Starting the Registration process ***************
+13:35:35.151 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree check box
+13:35:35.201 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree continue box
+13:37:00.645 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Starting the Registration process ***************
+13:37:01.347 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree check box
+13:37:01.388 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree continue box
+13:39:40.240 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Starting the Registration process ***************
+13:39:40.971 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree check box
+13:39:41.016 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree continue box
+15:44:04.672 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Starting the Registration process ***************
+15:44:05.464 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree check box
+15:44:05.514 [main] INFO  testCases.TC_001_AccountRegistrationTest - Click action on the agree continue box

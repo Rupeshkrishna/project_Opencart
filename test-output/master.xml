@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/test-ng-1.0.dtd">
+<suite name="OpencartSuite">
+
+<listners>
+<listner class-name = "utilities.ExtentReportManager" />
+</listners>
+
+<test thread-count = "5" name = "OpencartTest">
+<parameter name="browser" value="chrome" />
+<Classes>
+<Class name="testCases.TC_001_AccountRegistrationTest"/>
+</Classes>
+</test>
+</suite>
